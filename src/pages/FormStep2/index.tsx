@@ -43,7 +43,6 @@ export const FormStep2 = () => {
                 <h1>{state.name}, tell us your level as a developer</h1>
                 <p>Click to define which level are you curently</p>
                 <hr />
-                <p>Level: {state.level}</p>
 
                 <SelectOption
                     title="I'm a beginner"
